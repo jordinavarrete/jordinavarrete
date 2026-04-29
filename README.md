@@ -20,5 +20,5 @@ I am a Computer Engineering student at the Universitat Politècnica de Catalunya
 ## Contact
 I am currently open to job offers and professional opportunities in software engineering.
 
-* LinkedIn: [linkedin.com/in/jordi-navarrete-amer-b35b23406](https://www.linkedin.com/in/jordi-navarrete-amer-b35b23406/)
+* LinkedIn: [linkedin.com/in/jordinavarreteamer/](https://www.linkedin.com/in/jordinavarreteamer/)
 * Email: jordinavarreteamer@gmail.com
