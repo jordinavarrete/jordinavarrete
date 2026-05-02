@@ -13,7 +13,7 @@ I am a Computer Engineering student at the Universitat Politècnica de Catalunya
 * [ROB-AutonomousNav](https://github.com/jordinavarrete/ROB-AutonomousNav) (2026): An autonomous navigation system developed for the Robotics course at UPC.
 
 ### Personal Projects
-* [HobibosGame](https://github.com/andreumr/Hobibo-s-game) (2024): A strategy board game inspired by classics like Tic-Tac-Toe and Connect Four, featuring custom game logic based on a childhood classroom game.
+* [HobibosGame](https://github.com/jordinavarrete/Hobibo-s-game) (2024): A strategy board game inspired by classics like Tic-Tac-Toe and Connect Four, featuring custom game logic based on a childhood classroom game.
 
 ## Languages
 * Catalan
